@@ -1,0 +1,22 @@
+
+
+.gallery img {
+  border: solid 2px white;
+  height: 500px;
+  border-style: solid;
+  padding-bottom: 25px;
+}
+h1  {
+  font-color:red;
+}
+figure {
+  border-style:dashed white;
+}
+body {
+  font-family:arial;
+  background-color: white;
+}
+
+th {
+    font-color:red;
+}
